@@ -15,7 +15,7 @@ This repository is a group of all machine learning algorithms I have experimente
 3. Using TensorFlow
 4. Using Sci-Kit Learn
 5. Using PyTorch
-6. For classification
+
 
 ## Time Series Forecasting using ARIMA
 
