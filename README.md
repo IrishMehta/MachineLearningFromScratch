@@ -16,6 +16,8 @@ This repository is a group of all machine learning algorithms I have experimente
 4. Using Sci-Kit Learn
 5. Using PyTorch
 
+## Adaboost for Binary Classification
+1. Using Python and Pandas dataframes
 
 ## Time Series Forecasting using ARIMA
 
