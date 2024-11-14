@@ -35,6 +35,10 @@ This repository is a group of all machine learning/artificial intelligence algor
 8. Guided Image Generation using ControlNet✅
 9. Improving an image by refining gradients✅
 
+## Transformer Architecture
+1. Next Word Prediction From Scratch
+2. Next Word Prediction Using Finetuning on Pretrained GPT2
+
 ## Time Series Forecasting using ARIMA
 1. ARIMA on TCS stock value✅
 
