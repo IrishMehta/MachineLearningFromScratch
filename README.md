@@ -23,6 +23,10 @@ This repository is a group of all machine learning/artificial intelligence algor
 1. Demonstration of a Bayesian Network✅
 
 ## Reinforcement Learning
+1. Model Based RL- Value Iteration, Policy Iteration
+2. Model Free RL- Monte Carlo, Bootstrapping, Temporal Difference
+3. Model Free RL- Q-learning
+4. RL on Dataset
 
 ## Diffusion Modelling
 1. Zero-Shot Classification using CLIP✅
