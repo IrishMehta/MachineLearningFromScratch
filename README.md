@@ -23,7 +23,7 @@ This repository is a group of all machine learning/artificial intelligence algor
 1. Demonstration of a Bayesian Network✅
 
 ## Reinforcement Learning
-1. Model Based RL- Value Iteration, Policy Iteration
+1. Model Based RL- Value Iteration, Policy Iteration ✅
 2. Model Free RL- Monte Carlo, Bootstrapping, Temporal Difference
 3. Model Free RL- Q-learning
 4. RL on Dataset
@@ -41,7 +41,7 @@ This repository is a group of all machine learning/artificial intelligence algor
 
 ## Transformer Architecture
 1. Next Word Prediction From Scratch
-2. Next Word Prediction Using Finetuning on Pretrained GPT2
+2. Next Word Prediction Using Finetuning on GPT2 ✅
 
 ## Time Series Forecasting using ARIMA
 1. ARIMA on TCS stock value✅
