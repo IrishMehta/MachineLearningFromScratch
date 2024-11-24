@@ -1,5 +1,5 @@
 # MachineLearningFromScratch
-This repository is a group of all machine learning/artificial intelligence algorithms I have experimented with
+This repository is a group of all machine learning/artificial intelligence algorithms I have experimented with. Each notebook is self-contained with relevant information.
 
 ## Linear Regression:
 1. Using Python✅
@@ -16,8 +16,30 @@ This repository is a group of all machine learning/artificial intelligence algor
 4. Using Sci-Kit Learn
 5. Using PyTorch
 
-## Adaboost for Binary Classification
-1. Using Python and Pandas dataframes✅
+## Time Series Forecasting using ARIMA
+1. ARIMA on TCS stock value✅
+
+## Decision Tree:
+1. Using Python
+2. Using NumPy
+3. Using TensorFlow
+4. Using Sci-Kit Learn
+5. Using PyTorch
+6. For classification
+
+## Random Forest
+
+## Boosting
+1. Adaboost for Binary Classification✅
+2. Extreme Gradient Boosting
+
+## Neural Networks
+1. Using Python
+
+## Clustering
+1. KMeans
+2. Density Based
+3. Hierarchical
 
 ## Bayesian Network
 1. Demonstration of a Bayesian Network✅
@@ -43,14 +65,17 @@ This repository is a group of all machine learning/artificial intelligence algor
 1. Next Word Prediction From Scratch
 2. Next Word Prediction Using Finetuning on GPT2 ✅
 
-## Time Series Forecasting using ARIMA
-1. ARIMA on TCS stock value✅
+## Paper Implementations
+1. Contrastive Language Image Pretraining (CLIP)✅
+2. Deep Imbalanced Regression (DIR)
+3. Generative Adversarial Networks
+4. Attention is all you need
 
-## Decision Tree:
-1. Using Python
-2. Using NumPy
-3. Using TensorFlow
-4. Using Sci-Kit Learn
-5. Using PyTorch
-6. For classification
-
+## Important Functions
+1. Softmax
+2. Sigmoid
+3. MinMax Scaling
+4. Euclidean Distance
+5. Mahalonobis Distance
+6. Cross Entropy Loss
+7. Gradient Descent
