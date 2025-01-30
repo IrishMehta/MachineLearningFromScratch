@@ -1,6 +1,16 @@
 # MachineLearningFromScratch
 This repository is a group of all machine learning/artificial intelligence algorithms I have experimented with. Each notebook is self-contained with relevant information.
 
+## Important Functions
+1. [✅] Softmax
+2. [✅] Sigmoid
+3. [✅] MinMax Scaling
+4. [✅] Euclidean Distance
+5. [✅] Mahalonobis Distance
+6. [] Cross Entropy Loss
+7. [] Gradient Descent
+8. [] ReLU
+
 ## Linear Regression:
 1. [✅] Using Python
 2. [✅] Using NumPy
@@ -71,11 +81,3 @@ This repository is a group of all machine learning/artificial intelligence algor
 3. [] Generative Adversarial Networks
 4. [] Attention is all you need
 
-## Important Functions
-1. [✅] Softmax
-2. [✅] Sigmoid
-3. [] MinMax Scaling
-4. [] Euclidean Distance
-5. [] Mahalonobis Distance
-6. [] Cross Entropy Loss
-7. [] Gradient Descent
