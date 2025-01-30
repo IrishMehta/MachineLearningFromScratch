@@ -6,8 +6,8 @@ This repository is a group of all machine learning/artificial intelligence algor
 2. [✅] Sigmoid
 3. [✅] MinMax Scaling
 4. [✅] Euclidean Distance
-5. [✅] Mahalonobis Distance
-6. [] Cross Entropy Loss
+5. [✅] Mahalanobis Distance
+6. [] Cross-Entropy Loss
 7. [] Gradient Descent
 8. [] ReLU
 
